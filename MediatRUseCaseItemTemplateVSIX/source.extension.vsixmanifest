@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="MediatRUseCaseItemTemplateVSIX.c91aca46-0289-48d5-974a-f89c50875ff9" Version="1.0" Language="en-US" Publisher="Andre Wells" />
-        <DisplayName>MediatRUseCaseItemTemplateVSIX</DisplayName>
+        <DisplayName>MediatR UseCase Item Template</DisplayName>
         <Description xml:space="preserve">An Item Template for creating MediatR based Use Cases.</Description>
         <MoreInfo>https://github.com/andre-wells/MediatRUseCaseItemTemplate</MoreInfo>
     </Metadata>
