@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRUseCaseItemTemplate", "MediatRUseCaseItemTemplate.csproj", "{6645014D-40C5-462F-87E1-3FD9047177C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRUseCaseItemTemplateVSIX", "..\MediatRUseCaseItemTemplateVSIX\MediatRUseCaseItemTemplateVSIX.csproj", "{8ECF5973-F359-4478-A441-607D0F3F8DAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6645014D-40C5-462F-87E1-3FD9047177C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6645014D-40C5-462F-87E1-3FD9047177C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6645014D-40C5-462F-87E1-3FD9047177C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECF5973-F359-4478-A441-607D0F3F8DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECF5973-F359-4478-A441-607D0F3F8DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECF5973-F359-4478-A441-607D0F3F8DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECF5973-F359-4478-A441-607D0F3F8DAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
