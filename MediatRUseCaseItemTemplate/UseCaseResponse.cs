@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace $rootnamespace$
 {
-    public class $safeitemrootname$Response
+    public class $basename$Response
     {
     }
 }

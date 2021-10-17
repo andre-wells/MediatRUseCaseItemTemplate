@@ -19,5 +19,8 @@
     <ProjectItem TargetFileName="$fileinputname$\$fileinputname$Handler.cs" ReplaceParameters="true">UseCaseHandler.cs</ProjectItem>
     <ProjectItem TargetFileName="$fileinputname$\$fileinputname$Request.cs" ReplaceParameters="true">UseCaseRequest.cs</ProjectItem>
     <ProjectItem TargetFileName="$fileinputname$\$fileinputname$Response.cs" ReplaceParameters="true">UseCaseResponse.cs</ProjectItem>
+    <CustomParameters>
+      <CustomParameter Name="$basename$" Value="$fileinputname$"/>
+    </CustomParameters>
   </TemplateContent>
 </VSTemplate>

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace $rootnamespace$
 {
-    public class $safeitemrootname$Request : IRequest<$safeitemrootname$Response>
+    public class $basename$Request : IRequest<$basename$Response>
     {
     }
 }

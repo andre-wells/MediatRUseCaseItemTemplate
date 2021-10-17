@@ -5,16 +5,16 @@ using System.Threading;
 
 namespace $rootnamespace$
 {
-    public class $safeitemrootname$Handler : IRequestHandler<$safeitemrootname$Request, $safeitemrootname$Response>
+    public class $basename$Handler : IRequestHandler<$basename$Request, $basename$Response>
     {
-        private readonly ILogger<$safeitemrootname$Handler> _logger;
+        private readonly ILogger<$basename$Handler> _logger;
 
-        public $safeitemrootname$Handler(ILogger<$safeitemrootname$Handler> logger)
+        public $basename$Handler(ILogger<$basename$Handler> logger)
         {
             _logger = logger;
         }
 
-        public Task<$safeitemrootname$Response> Handle($safeitemrootname$Request request, CancellationToken cancellationToken)
+        public Task<$basename$Response> Handle($basename$Request request, CancellationToken cancellationToken)
         {
             throw new NotImplementedException();
         }
