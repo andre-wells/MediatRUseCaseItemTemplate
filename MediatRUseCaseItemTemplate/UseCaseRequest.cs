@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MediatRUseCaseItemTemplate
+namespace $rootnamespace$
 {
-    public class UseCaseRequest : IRequest<UseCaseResponse>
+    public class $safeitemrootname$Request : IRequest<$safeitemrootname$Response>
     {
     }
 }

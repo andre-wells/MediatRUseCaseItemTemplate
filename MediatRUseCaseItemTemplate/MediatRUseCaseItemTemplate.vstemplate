@@ -8,7 +8,7 @@
     <ProjectType>CSharp</ProjectType>
     <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
-    <DefaultName>Class.cs</DefaultName>
+    <DefaultName>UseCase.cs</DefaultName>
   </TemplateData>
   <TemplateContent>
     <References>
@@ -16,6 +16,8 @@
         <Assembly>System</Assembly>
       </Reference>
     </References>
-    <ProjectItem ReplaceParameters="true">Class.cs</ProjectItem>
+    <ProjectItem ReplaceParameters="true">UseCaseHandler.cs</ProjectItem>
+    <ProjectItem ReplaceParameters="true">UseCaseRequest.cs</ProjectItem>
+    <ProjectItem ReplaceParameters="true">UseCaseResponse.cs</ProjectItem>
   </TemplateContent>
 </VSTemplate>

@@ -1,24 +1,20 @@
 ﻿using MediatR;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
-namespace MediatRUseCaseItemTemplate
+namespace $rootnamespace$
 {
-    public class UseCaseHandler : IRequestHandler<UseCaseRequest, UseCaseResponse>
+    public class $safeitemrootname$Handler : IRequestHandler<$safeitemrootname$Request, $safeitemrootname$Response>
     {
-        private readonly ILogger<UseCaseHandler> _logger;
+        private readonly ILogger<$safeitemrootname$Handler> _logger;
 
-        public UseCaseHandler(ILogger<UseCaseHandler> logger)
+        public $safeitemrootname$Handler(ILogger<$safeitemrootname$Handler> logger)
         {
             _logger = logger;
         }
 
-        public Task<UseCaseResponse> Handle(UseCaseRequest request, CancellationToken cancellationToken)
+        public Task<$safeitemrootname$Response> Handle($safeitemrootname$Request request, CancellationToken cancellationToken)
         {
             throw new NotImplementedException();
         }
