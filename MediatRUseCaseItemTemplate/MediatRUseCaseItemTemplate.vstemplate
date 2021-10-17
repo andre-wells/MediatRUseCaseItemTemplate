@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
   <TemplateData>
-    <Name>MediatRUseCaseItemTemplate</Name>
-    <Description>MediatRUseCaseItemTemplate</Description>
+    <Name>MediatR UseCase</Name>
+    <Description>An Item Template for creating MediatR based Use Cases</Description>
     <Icon>MediatRUseCaseItemTemplate.ico</Icon>
     <TemplateID>dd244488-5830-4930-8fc7-b7ac492aa5b4</TemplateID>
     <ProjectType>CSharp</ProjectType>
