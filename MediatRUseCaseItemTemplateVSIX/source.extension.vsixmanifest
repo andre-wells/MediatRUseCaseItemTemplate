@@ -3,7 +3,8 @@
     <Metadata>
         <Identity Id="MediatRUseCaseItemTemplateVSIX.c91aca46-0289-48d5-974a-f89c50875ff9" Version="1.0" Language="en-US" Publisher="Andre Wells" />
         <DisplayName>MediatRUseCaseItemTemplateVSIX</DisplayName>
-        <Description>Empty VSIX Project.</Description>
+        <Description xml:space="preserve">An Item Template for creating MediatR based Use Cases.</Description>
+        <MoreInfo>https://github.com/andre-wells/MediatRUseCaseItemTemplate</MoreInfo>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
