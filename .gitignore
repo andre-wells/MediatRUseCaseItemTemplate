@@ -1,0 +1,8 @@
+bin
+obj
+.vs
+*.csproj.user
+packages
+TestResults
+sh.exe.stackdump
+/*.user
